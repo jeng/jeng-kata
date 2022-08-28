@@ -1,0 +1,20 @@
+Your company MRE Tech has developers with very different backgrounds. One day a new project is getting started and now, to your surprise, you are the senior C programmer in the team. The other programmers come from PHP, Python, Perl, OCaml, and Bash. To help with the transition to C the project manager decides to reject the standard library and to implement an in house solution. The project manager did some Python programming in high school and decides that this new library should have a Python-like touch.
+The first task for this library is formatted printing:
+Task
+Write a function mr_asprintf
+char *mr_asprintf(const char *format, ...);
+that takes a format string and any number of additional arguments and returns a malloced string where all conversion specifications (e.g. {i}) are replaced by the aforementioned additional arguments.
+Format of the format string
+The format string is composed of zero or more directives: ordinary characters (not {), which are copied unchanged, and conversion specifications in the form { <type> }. You only have to implement type i for int and type s for char *. To allow literal curly braces ({), {{ is replaced with {.
+Examples
+char *result = mr_asprintf("Gaius Julius Caesar Augustus Germanicus");
+// result == "Gaius Julius Caesar Augustus Germanicus"
+
+char *result = mr_asprintf("Nickname: {s}", "Caligula");
+// result == "Nickname: Caligula"
+
+char *result = mr_asprintf("Reign: {i} AD - {i} AD", 37, 41);
+// result == "Reign: 37 AD - 41 AD"
+
+char *result = mr_asprintf("born: {s} {i}, {i} in {s}", "August", 31, 12, "Antium");
+// result == "born: August 31, 12 in Antium"

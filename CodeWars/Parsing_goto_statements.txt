@@ -1,0 +1,46 @@
+You are given a source file in the format (BNF):
+<line> ::=
+  (<goto-statement> | <label> <whitespace> <text>) <end-of-line>
+
+<goto-statement> ::=
+  goto <whitespace> <label>
+
+<label> ::= 
+  <positive integer>
+  
+<text> ::=
+  <printable characters>
+  /* printable characters include whitespace characters. */
+  
+<end-of-line> ::=
+  \n
+A visual example would look like this (please, notice how it's reminiscent of the early days of BASIC):
+const char *source = (
+  "5 HERE\n"
+  "10 IS\n"
+  "goto 40\n"
+  "20 JUST rAnDoM TEXT\n"
+  "30 AND\n"
+  "40 MORE RANDOM text\n"
+);
+When given to your parser function, the result should look like the following:
+const char *expected = (
+  "HERE IS MORE RANDOM text"
+);
+So the objective is to chain the text in the statements (with a single space) (while ignoring the labels) not omitted by jumps. Another example would be, given the following source:
+const char *source = (
+  "1 I am\n"
+  "goto 5\n"
+  "2 travelling\n"
+  "3 down\n"
+  "4 the river\n"
+  "5 back\n"
+  "10 home\n"
+);
+The result would be:
+const char *expected = "I am back home";
+For this task, assume that the goto-statement will never have you go back (so you may not need worry about infinite loops). Also, notice, how the goto-statement does not itself have a label.
+For this problem, you may also assume the following:
+input is always going to be valid.
+no redundant whitespaces - a maximum of 1 whitespace per separator.
+there will always be at least one non-goto statement.

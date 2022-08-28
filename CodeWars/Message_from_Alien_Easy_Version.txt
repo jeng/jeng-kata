@@ -1,0 +1,12 @@
+The alien sent a message. But it's encrypted. The first step is to unzip it. Here's how.
+ABCD -> ABCD
+AB[3CD] -> ABCDCDCD
+AB[2[3CD]] -> ABCDCDCD
+IF[2E]LG[5O]D -> IFEELGOOOOOD
+AB[2C[2EF]G] -> ABCEFEFGCEFEFG
+The rules are simple:
+There will only be captical letter, numbers and brackets('[' and ']') in the message.
+When there's a block of code inside brackets, such as [39ABC], it means you need to repeat the letters(ABC) n(39) times.
+The blocks might be embeded multiple layers.
+You final message will only consists of capital letters.
+The blocks, when they apear, will always follow the correct format, so you don't have to validate it.

@@ -1,0 +1,29 @@
+ASCII Games is a series of hard game-based katas revolving around the classic games we love that operates on a rectangular grid.
+Any youngster Joeys should probably know what this image means, and why it is traumatic:
+(Image from Bulbapedia)
+In many grid-based 2D puzzle games, there is a typical form of puzzle which are usually referred to as 'ice puzzle':
+You have to traverse from point A to point B
+You can move towards one of the 4 orthogonal directions, 1 tile at a time
+Some of the floors are slippery; if you walk onto a slippery tile, you'll keep sliding in the direction you're going until you land on a non-slippery tile, or you collide with an obstacle/wall
+For example, the top-left part of the above puzzle has such a solution:
+You will be given an M x N well-formed rectanglar ASCII map of the form:
+var map = '\
+    x \n\
+  #   \n\
+   E  \n\
+ #    \n\
+    # \n\
+S    #';
+/*
+Player starts at the start, and ends by reaching the end.
+
+legend: 
+S: start (slippery, only 1 exists)
+E: end (non-slippery, only 1 exists)
+ : slippery tile
+x: non-slippery tile
+#: obstacles
+(You can't go past map edges, which serves as the walls of the puzzle.)
+*/
+Your solver should find the optimal solution (minimal number of moves, as in, the amount of times you make a step), and return an array of directions: 'u', 'd', 'l', 'r' for up/down/left/right respectively. So for the example map above, you should return ['u', 'r', 'd', 'l', 'u', 'r']. If there are multiple solutions with the same amount of steps, tiebreak by least distance traversed. If there are still ties, just return any one of them.
+Also, you might be passed some maps which does not admit any solutions. In this case, return null.
