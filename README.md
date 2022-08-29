@@ -150,62 +150,62 @@ Over time I plan to go back through and add the runtime analysis of the solution
 ## Leet Code
 |Title|Description|Solution|Asymptotic Analysis|Original Link|Level|Tags|
 |-----|-----------|--------|-------------------|-----------|-----|----|
-|Create Binary Tree From Descriptions|desc|[Source](LeetCode/Create_Binary_Tree_From_Descriptions.cpp)||[link](https://leetcode.com/problems/create-binary-tree-from-descriptions/)|level|`c++`|
-|Count Good Nodes in Binary Tree|desc|[Source](LeetCode/Count_Good_Nodes_in_Binary_Tree.cpp)||[link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|level|`c++`|
-|Palindromic Substrings|desc|[Source](LeetCode/Palindromic_Substrings.cpp)||[link](https://leetcode.com/problems/palindromic-substrings/)|level|`c++`|
-|Minimum Falling Path Sum|desc|[Source](LeetCode/Minimum_Falling_Path_Sum.cpp)||[link](https://leetcode.com/problems/minimum-falling-path-sum/)|level|`c++`|
-|Keys and Rooms|desc|[Source](LeetCode/Keys_and_Rooms.cpp)||[link](https://leetcode.com/problems/keys-and-rooms/)|level|`c++`|
-|Queries on Number of Points Inside a Circle|desc|[Source](LeetCode/Queries_on_Number_of_Points_Inside_a_Circle.cpp)||[link](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|level|`c++`|
-|Minimum Number of Vertices to Reach All Nodes|desc|[Source](LeetCode/Minimum_Number_of_Vertices_to_Reach_All_Nodes.cpp)||[link](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|level|`c++`|
-|Minimum Cost Tree From Leaf Values|desc|[Source](LeetCode/Minimum_Cost_Tree_From_Leaf_Values.cpp)||[link](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|level|`c++`|
-|Encode and Decode TinyURL|desc|[Source](LeetCode/Encode_and_Decode_TinyURL.cpp)||[link](https://leetcode.com/problems/encode-and-decode-tinyurl/)|level|`c++`|
-|Group the People Given the Group Size They Belong To|desc|[Source](LeetCode/Group_the_People_Given_the_Group_Size_They_Belong_To.cpp)||[link](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|level|`c++`|
-|Count Number of Teams|desc|[Source](LeetCode/Count_Number_of_Teams.cpp)||[link](https://leetcode.com/problems/count-number-of-teams/)|level|`c++`|
-|Number of Good Ways to Split a String|desc|[Source](LeetCode/Number_of_Good_Ways_to_Split_a_String.cpp)||[link](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)|level|`c++`|
-|All Elements in Two Binary Search Trees|desc|[Source](LeetCode/All_Elements_in_Two_Binary_Search_Trees.cpp)||[link](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|level|`c++`|
-|Sort Integers by The Power Value|desc|[Source](LeetCode/Sort_Integers_by_The_Power_Value.cpp)||[link](https://leetcode.com/problems/sort-integers-by-the-power-value/)|level|`c++`|
-|Egg Drop With 2 Eggs and N Floors|desc|[Source](LeetCode/Egg_Drop_With_2_Eggs_and_N_Floors.cpp)||[link](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/)|level|`c++`|
-|Partition Array for Maximum Sum|desc|[Source](LeetCode/Partition_Array_for_Maximum_Sum.cpp)||[link](https://leetcode.com/problems/partition-array-for-maximum-sum/)|level|`c++`|
-|Generate Parentheses|desc|[Source](LeetCode/Generate_Parentheses.cpp)||[link](https://leetcode.com/problems/generate-parentheses/)|level|`c++`|
-|Count Square Submatrices with All Ones|desc|[Source](LeetCode/Count_Square_Submatrices_with_All_Ones.cpp)||[link](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|level|`c++`|
-|Count Substrings That Differ by One Character|desc|[Source](LeetCode/Count_Substrings_That_Differ_by_One_Character.cpp)||[link](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/)|level|`c++`|
-|All Possible Full Binary Trees|desc|[Source](LeetCode/All_Possible_Full_Binary_Trees.cpp)||[link](https://leetcode.com/problems/all-possible-full-binary-trees/)|level|`c++`|
-|Remove Sub-Folders from the Filesystem|desc|[Source](LeetCode/Remove_SubFolders_from_the_Filesystem.cpp)||[link](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|level|`c++`|
-|Search Suggestions System|desc|[Source](LeetCode/Search_Suggestions_System.cpp)||[link](https://leetcode.com/problems/search-suggestions-system/)|level|`c++`|
-|Binary Search Tree to Greater Sum Tree|desc|[Source](LeetCode/Binary_Search_Tree_to_Greater_Sum_Tree.cpp)||[link](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|level|`c++`|
-|Find Elements in a Contaminated Binary Tree|desc|[Source](LeetCode/Find_Elements_in_a_Contaminated_Binary_Tree.cpp)||[link](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|level|`c++`|
-|All Paths From Source to Target|desc|[Source](LeetCode/All_Paths_From_Source_to_Target.cpp)||[link](https://leetcode.com/problems/all-paths-from-source-to-target/)|level|`c++`|
-|Sum of Nodes with Even-Valued Grandparent|desc|[Source](LeetCode/Sum_of_Nodes_with_EvenValued_Grandparent.cpp)||[link](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|level|`c++`|
-|Count Sorted Vowel Strings|desc|[Source](LeetCode/Count_Sorted_Vowel_Strings.cpp)||[link](https://leetcode.com/problems/count-sorted-vowel-strings/)|level|`c++`|
-|Count Nodes Equal to Average of Subtree|desc|[Source](LeetCode/Count_Nodes_Equal_to_Average_of_Subtree.cpp)||[link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|level|`c++`|
-|Deepest Leaves Sum|desc|[Source](LeetCode/Deepest_Leaves_Sum.cpp)||[link](https://leetcode.com/problems/deepest-leaves-sum/)|level|`c++`|
-|3Sum|desc|[Source](LeetCode/3Sum.cpp)||[link](https://leetcode.com/problems/3sum/)|level|`c++`|
-|Letter Combinations of a Phone Number|desc|[Source](LeetCode/Letter_Combinations_of_a_Phone_Number.cpp)||[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|level|`c++`|
-|Kth Largest Element in a Stream|desc|[Source](LeetCode/Kth_Largest_Element_in_a_Stream.cpp)||[link](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|level|`c++`|
-|Last Stone Weight|desc|[Source](LeetCode/Last_Stone_Weight.cpp)||[link](https://leetcode.com/problems/last-stone-weight/)|level|`c++`|
-|Divide Two Integers|desc|[Source](LeetCode/Divide_Two_Integers.cpp)||[link](https://leetcode.com/problems/divide-two-integers/)|level|`c++`|
-|Implement strStr()|desc|[Source](LeetCode/Implement_strStr.cpp)||[link](https://leetcode.com/problems/implement-strstr/)|level|`c++`|
-|Container With Most Water|desc|[Source](LeetCode/Container_With_Most_Water.cpp)||[link](https://leetcode.com/problems/container-with-most-water/)|level|`c++`|
-|Rotate List|desc|[Source](LeetCode/Rotate_List.cpp)||[link](https://leetcode.com/problems/rotate-list/)|level|`c++`|
-|Delete Node in a Linked List|desc|[Source](LeetCode/Delete_Node_in_a_Linked_List.cpp)||[link](https://leetcode.com/problems/delete-node-in-a-linked-list/)|level|`c++`|
-|Remove Linked List Elements|desc|[Source](LeetCode/Remove_Linked_List_Elements.cpp)||[link](https://leetcode.com/problems/remove-linked-list-elements/)|level|`c++`|
-|Remove Element|desc|[Source](LeetCode/Remove_Element.cpp)||[link](https://leetcode.com/problems/remove-element/)|level|`c++`|
-|Remove Duplicates from Sorted Array|desc|[Source](LeetCode/Remove_Duplicates_from_Sorted_Array.cpp)||[link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|level|`c++`|
-|Integer to Roman|desc|[Source](LeetCode/Integer_to_Roman.cpp)||[link](https://leetcode.com/problems/integer-to-roman/)|level|`c++`|
-|Roman to Integer|desc|[Source](LeetCode/Roman_to_Integer.cpp)||[link](https://leetcode.com/problems/roman-to-integer/)|level|`c++`|
-|Regular Expression Matching|desc|[Source](LeetCode/Regular_Expression_Matching.cpp)||[link](https://leetcode.com/problems/regular-expression-matching/)|level|`c++`|
-|Container With Most Water|desc|[Source](LeetCode/Container_With_Most_Water.cpp)||[link](https://leetcode.com/problems/container-with-most-water/)|level|`c++`|
-|Merge Two Sorted Lists|desc|[Source](LeetCode/Merge_Two_Sorted_Lists.cpp)||[link](https://leetcode.com/problems/merge-two-sorted-lists/)|level|`c++`|
-|Valid Parentheses|desc|[Source](LeetCode/Valid_Parentheses.cpp)||[link](https://leetcode.com/problems/valid-parentheses/)|level|`c++`|
-|Longest Common Prefix|desc|[Source](LeetCode/Longest_Common_Prefix.cpp)||[link](https://leetcode.com/problems/longest-common-prefix/)|level|`c++`|
-|Palindrome Number|desc|[Source](LeetCode/Palindrome_Number.cpp)||[link](https://leetcode.com/problems/palindrome-number/)|level|`c++`|
-|Number of 1 Bits|desc|[Source](LeetCode/Number_of_1_Bits.cpp)||[link](https://leetcode.com/problems/number-of-1-bits/)|level|`c++`|
-|Reverse Bits|desc|[Source](LeetCode/Reverse_Bits.cpp)||[link](https://leetcode.com/problems/reverse-bits/)|level|`c++`|
-|Reverse Integer|desc|[Source](LeetCode/Reverse_Integer.cpp)||[link](https://leetcode.com/problems/reverse-integer/)|level|`c++`|
-|Two Sum|desc|[Source](LeetCode/Two_Sum.cpp)||[link](https://leetcode.com/problems/two-sum/)|level|`c++`|
-|String to Integer (atoi)|desc|[Source](LeetCode/String_to_Integer_atoi.cpp)||[link](https://leetcode.com/problems/string-to-integer-atoi/)|level|`c++`|
-|Zigzag Conversion|desc|[Source](LeetCode/Zigzag_Conversion.cpp)||[link](https://leetcode.com/problems/zigzag-conversion/)|level|`c++`|
-|Longest Palindromic Substring|desc|[Source](LeetCode/Longest_Palindromic_Substring.cpp)||[link](https://leetcode.com/problems/longest-palindromic-substring/)|level|`c++`|
+|Create Binary Tree From Descriptions|[Description](LeetCode/Create_Binary_Tree_From_Descriptions.txt)|[Source](LeetCode/Create_Binary_Tree_From_Descriptions.cpp)||[link](https://leetcode.com/problems/create-binary-tree-from-descriptions/)|level|`c++`|
+|Count Good Nodes in Binary Tree|[Description](LeetCode/Count_Good_Nodes_in_Binary_Tree.txt)|[Source](LeetCode/Count_Good_Nodes_in_Binary_Tree.cpp)||[link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|level|`c++`|
+|Palindromic Substrings|[Description](LeetCode/Palindromic_Substrings.txt)|[Source](LeetCode/Palindromic_Substrings.cpp)||[link](https://leetcode.com/problems/palindromic-substrings/)|level|`c++`|
+|Minimum Falling Path Sum|[Description](LeetCode/Minimum_Falling_Path_Sum.txt)|[Source](LeetCode/Minimum_Falling_Path_Sum.cpp)||[link](https://leetcode.com/problems/minimum-falling-path-sum/)|level|`c++`|
+|Keys and Rooms|[Description](LeetCode/Keys_and_Rooms.txt)|[Source](LeetCode/Keys_and_Rooms.cpp)||[link](https://leetcode.com/problems/keys-and-rooms/)|level|`c++`|
+|Queries on Number of Points Inside a Circle|[Description](LeetCode/Queries_on_Number_of_Points_Inside_a_Circle.txt)|[Source](LeetCode/Queries_on_Number_of_Points_Inside_a_Circle.cpp)||[link](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|level|`c++`|
+|Minimum Number of Vertices to Reach All Nodes|[Description](LeetCode/Minimum_Number_of_Vertices_to_Reach_All_Nodes.txt)|[Source](LeetCode/Minimum_Number_of_Vertices_to_Reach_All_Nodes.cpp)||[link](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|level|`c++`|
+|Minimum Cost Tree From Leaf Values|[Description](LeetCode/Minimum_Cost_Tree_From_Leaf_Values.txt)|[Source](LeetCode/Minimum_Cost_Tree_From_Leaf_Values.cpp)||[link](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|level|`c++`|
+|Encode and Decode TinyURL|[Description](LeetCode/Encode_and_Decode_TinyURL.txt)|[Source](LeetCode/Encode_and_Decode_TinyURL.cpp)||[link](https://leetcode.com/problems/encode-and-decode-tinyurl/)|level|`c++`|
+|Group the People Given the Group Size They Belong To|[Description](LeetCode/Group_the_People_Given_the_Group_Size_They_Belong_To.txt)|[Source](LeetCode/Group_the_People_Given_the_Group_Size_They_Belong_To.cpp)||[link](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|level|`c++`|
+|Count Number of Teams|[Description](LeetCode/Count_Number_of_Teams.txt)|[Source](LeetCode/Count_Number_of_Teams.cpp)||[link](https://leetcode.com/problems/count-number-of-teams/)|level|`c++`|
+|Number of Good Ways to Split a String|[Description](LeetCode/Number_of_Good_Ways_to_Split_a_String.txt)|[Source](LeetCode/Number_of_Good_Ways_to_Split_a_String.cpp)||[link](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)|level|`c++`|
+|All Elements in Two Binary Search Trees|[Description](LeetCode/All_Elements_in_Two_Binary_Search_Trees.txt)|[Source](LeetCode/All_Elements_in_Two_Binary_Search_Trees.cpp)||[link](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|level|`c++`|
+|Sort Integers by The Power Value|[Description](LeetCode/Sort_Integers_by_The_Power_Value.txt)|[Source](LeetCode/Sort_Integers_by_The_Power_Value.cpp)||[link](https://leetcode.com/problems/sort-integers-by-the-power-value/)|level|`c++`|
+|Egg Drop With 2 Eggs and N Floors|[Description](LeetCode/Egg_Drop_With_2_Eggs_and_N_Floors.txt)|[Source](LeetCode/Egg_Drop_With_2_Eggs_and_N_Floors.cpp)||[link](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/)|level|`c++`|
+|Partition Array for Maximum Sum|[Description](LeetCode/Partition_Array_for_Maximum_Sum.txt)|[Source](LeetCode/Partition_Array_for_Maximum_Sum.cpp)||[link](https://leetcode.com/problems/partition-array-for-maximum-sum/)|level|`c++`|
+|Generate Parentheses|[Description](LeetCode/Generate_Parentheses.txt)|[Source](LeetCode/Generate_Parentheses.cpp)||[link](https://leetcode.com/problems/generate-parentheses/)|level|`c++`|
+|Count Square Submatrices with All Ones|[Description](LeetCode/Count_Square_Submatrices_with_All_Ones.txt)|[Source](LeetCode/Count_Square_Submatrices_with_All_Ones.cpp)||[link](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|level|`c++`|
+|Count Substrings That Differ by One Character|[Description](LeetCode/Count_Substrings_That_Differ_by_One_Character.txt)|[Source](LeetCode/Count_Substrings_That_Differ_by_One_Character.cpp)||[link](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/)|level|`c++`|
+|All Possible Full Binary Trees|[Description](LeetCode/All_Possible_Full_Binary_Trees.txt)|[Source](LeetCode/All_Possible_Full_Binary_Trees.cpp)||[link](https://leetcode.com/problems/all-possible-full-binary-trees/)|level|`c++`|
+|Remove Sub-Folders from the Filesystem|[Description](LeetCode/Remove_SubFolders_from_the_Filesystem.txt)|[Source](LeetCode/Remove_SubFolders_from_the_Filesystem.cpp)||[link](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|level|`c++`|
+|Search Suggestions System|[Description](LeetCode/Search_Suggestions_System.txt)|[Source](LeetCode/Search_Suggestions_System.cpp)||[link](https://leetcode.com/problems/search-suggestions-system/)|level|`c++`|
+|Binary Search Tree to Greater Sum Tree|[Description](LeetCode/Binary_Search_Tree_to_Greater_Sum_Tree.txt)|[Source](LeetCode/Binary_Search_Tree_to_Greater_Sum_Tree.cpp)||[link](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|level|`c++`|
+|Find Elements in a Contaminated Binary Tree|[Description](LeetCode/Find_Elements_in_a_Contaminated_Binary_Tree.txt)|[Source](LeetCode/Find_Elements_in_a_Contaminated_Binary_Tree.cpp)||[link](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|level|`c++`|
+|All Paths From Source to Target|[Description](LeetCode/All_Paths_From_Source_to_Target.txt)|[Source](LeetCode/All_Paths_From_Source_to_Target.cpp)||[link](https://leetcode.com/problems/all-paths-from-source-to-target/)|level|`c++`|
+|Sum of Nodes with Even-Valued Grandparent|[Description](LeetCode/Sum_of_Nodes_with_EvenValued_Grandparent.txt)|[Source](LeetCode/Sum_of_Nodes_with_EvenValued_Grandparent.cpp)||[link](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|level|`c++`|
+|Count Sorted Vowel Strings|[Description](LeetCode/Count_Sorted_Vowel_Strings.txt)|[Source](LeetCode/Count_Sorted_Vowel_Strings.cpp)||[link](https://leetcode.com/problems/count-sorted-vowel-strings/)|level|`c++`|
+|Count Nodes Equal to Average of Subtree|[Description](LeetCode/Count_Nodes_Equal_to_Average_of_Subtree.txt)|[Source](LeetCode/Count_Nodes_Equal_to_Average_of_Subtree.cpp)||[link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|level|`c++`|
+|Deepest Leaves Sum|[Description](LeetCode/Deepest_Leaves_Sum.txt)|[Source](LeetCode/Deepest_Leaves_Sum.cpp)||[link](https://leetcode.com/problems/deepest-leaves-sum/)|level|`c++`|
+|3Sum|[Description](LeetCode/3Sum.txt)|[Source](LeetCode/3Sum.cpp)||[link](https://leetcode.com/problems/3sum/)|level|`c++`|
+|Letter Combinations of a Phone Number|[Description](LeetCode/Letter_Combinations_of_a_Phone_Number.txt)|[Source](LeetCode/Letter_Combinations_of_a_Phone_Number.cpp)||[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|level|`c++`|
+|Kth Largest Element in a Stream|[Description](LeetCode/Kth_Largest_Element_in_a_Stream.txt)|[Source](LeetCode/Kth_Largest_Element_in_a_Stream.cpp)||[link](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|level|`c++`|
+|Last Stone Weight|[Description](LeetCode/Last_Stone_Weight.txt)|[Source](LeetCode/Last_Stone_Weight.cpp)||[link](https://leetcode.com/problems/last-stone-weight/)|level|`c++`|
+|Divide Two Integers|[Description](LeetCode/Divide_Two_Integers.txt)|[Source](LeetCode/Divide_Two_Integers.cpp)||[link](https://leetcode.com/problems/divide-two-integers/)|level|`c++`|
+|Implement strStr()|[Description](LeetCode/Implement_strStr.txt)|[Source](LeetCode/Implement_strStr.cpp)||[link](https://leetcode.com/problems/implement-strstr/)|level|`c++`|
+|Container With Most Water|[Description](LeetCode/Container_With_Most_Water.txt)|[Source](LeetCode/Container_With_Most_Water.cpp)||[link](https://leetcode.com/problems/container-with-most-water/)|level|`c++`|
+|Rotate List|[Description](LeetCode/Rotate_List.txt)|[Source](LeetCode/Rotate_List.cpp)||[link](https://leetcode.com/problems/rotate-list/)|level|`c++`|
+|Delete Node in a Linked List|[Description](LeetCode/Delete_Node_in_a_Linked_List.txt)|[Source](LeetCode/Delete_Node_in_a_Linked_List.cpp)||[link](https://leetcode.com/problems/delete-node-in-a-linked-list/)|level|`c++`|
+|Remove Linked List Elements|[Description](LeetCode/Remove_Linked_List_Elements.txt)|[Source](LeetCode/Remove_Linked_List_Elements.cpp)||[link](https://leetcode.com/problems/remove-linked-list-elements/)|level|`c++`|
+|Remove Element|[Description](LeetCode/Remove_Element.txt)|[Source](LeetCode/Remove_Element.cpp)||[link](https://leetcode.com/problems/remove-element/)|level|`c++`|
+|Remove Duplicates from Sorted Array|[Description](LeetCode/Remove_Duplicates_from_Sorted_Array.txt)|[Source](LeetCode/Remove_Duplicates_from_Sorted_Array.cpp)||[link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|level|`c++`|
+|Integer to Roman|[Description](LeetCode/Integer_to_Roman.txt)|[Source](LeetCode/Integer_to_Roman.cpp)||[link](https://leetcode.com/problems/integer-to-roman/)|level|`c++`|
+|Roman to Integer|[Description](LeetCode/Roman_to_Integer.txt)|[Source](LeetCode/Roman_to_Integer.cpp)||[link](https://leetcode.com/problems/roman-to-integer/)|level|`c++`|
+|Regular Expression Matching|[Description](LeetCode/Regular_Expression_Matching.txt)|[Source](LeetCode/Regular_Expression_Matching.cpp)||[link](https://leetcode.com/problems/regular-expression-matching/)|level|`c++`|
+|Container With Most Water|[Description](LeetCode/Container_With_Most_Water.txt)|[Source](LeetCode/Container_With_Most_Water.cpp)||[link](https://leetcode.com/problems/container-with-most-water/)|level|`c++`|
+|Merge Two Sorted Lists|[Description](LeetCode/Merge_Two_Sorted_Lists.txt)|[Source](LeetCode/Merge_Two_Sorted_Lists.cpp)||[link](https://leetcode.com/problems/merge-two-sorted-lists/)|level|`c++`|
+|Valid Parentheses|[Description](LeetCode/Valid_Parentheses.txt)|[Source](LeetCode/Valid_Parentheses.cpp)||[link](https://leetcode.com/problems/valid-parentheses/)|level|`c++`|
+|Longest Common Prefix|[Description](LeetCode/Longest_Common_Prefix.txt)|[Source](LeetCode/Longest_Common_Prefix.cpp)||[link](https://leetcode.com/problems/longest-common-prefix/)|level|`c++`|
+|Palindrome Number|[Description](LeetCode/Palindrome_Number.txt)|[Source](LeetCode/Palindrome_Number.cpp)||[link](https://leetcode.com/problems/palindrome-number/)|level|`c++`|
+|Number of 1 Bits|[Description](LeetCode/Number_of_1_Bits.txt)|[Source](LeetCode/Number_of_1_Bits.cpp)||[link](https://leetcode.com/problems/number-of-1-bits/)|level|`c++`|
+|Reverse Bits|[Description](LeetCode/Reverse_Bits.txt)|[Source](LeetCode/Reverse_Bits.cpp)||[link](https://leetcode.com/problems/reverse-bits/)|level|`c++`|
+|Reverse Integer|[Description](LeetCode/Reverse_Integer.txt)|[Source](LeetCode/Reverse_Integer.cpp)||[link](https://leetcode.com/problems/reverse-integer/)|level|`c++`|
+|Two Sum|[Description](LeetCode/Two_Sum.txt)|[Source](LeetCode/Two_Sum.cpp)||[link](https://leetcode.com/problems/two-sum/)|level|`c++`|
+|String to Integer (atoi)|[Description](LeetCode/String_to_Integer_atoi.txt)|[Source](LeetCode/String_to_Integer_atoi.cpp)||[link](https://leetcode.com/problems/string-to-integer-atoi/)|level|`c++`|
+|Zigzag Conversion|[Description](LeetCode/Zigzag_Conversion.txt)|[Source](LeetCode/Zigzag_Conversion.cpp)||[link](https://leetcode.com/problems/zigzag-conversion/)|level|`c++`|
+|Longest Palindromic Substring|[Description](LeetCode/Longest_Palindromic_Substring.txt)|[Source](LeetCode/Longest_Palindromic_Substring.cpp)||[link](https://leetcode.com/problems/longest-palindromic-substring/)|level|`c++`|
 
 ## Code Fight
 _Sadly the my submission no longer show on my profile_
