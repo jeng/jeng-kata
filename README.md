@@ -146,3 +146,11 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |Playing with passphrases|[Description](CodeWars/Playing_with_passphrases.txt)|[Source](CodeWars/Playing_with_passphrases.cpp)||[link](https://www.codewars.com/kata/559536379512a64472000053)|6 kyu|`C++`|
 |Which are in?|[Description](CodeWars/Which_are_in.txt)|[Source](CodeWars/Which_are_in.cpp)||[link](https://www.codewars.com/kata/550554fd08b86f84fe000a58)|6 kyu|`C++`|
 |Multiply|[Description](CodeWars/Multiply.txt)|[Source](CodeWars/Multiply.cpp)||[link](https://www.codewars.com/kata/50654ddff44f800200000004)|8 kyu|`C++`|
+
+## Leet Code
+
+## Code Fight
+_Sadly the my submission no longer show on my profile_
+
+## Daily programmer
+_if I can find them_
