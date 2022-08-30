@@ -206,6 +206,7 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |String to Integer (atoi)|[Description](LeetCode/String_to_Integer_atoi.txt)|[Source](LeetCode/String_to_Integer_atoi.cpp)||[link](https://leetcode.com/problems/string-to-integer-atoi/)|medium|`c++`|
 |Zigzag Conversion|[Description](LeetCode/Zigzag_Conversion.txt)|[Source](LeetCode/Zigzag_Conversion.cpp)||[link](https://leetcode.com/problems/zigzag-conversion/)|medium|`c++`|
 |Longest Palindromic Substring|[Description](LeetCode/Longest_Palindromic_Substring.txt)|[Source](LeetCode/Longest_Palindromic_Substring.cpp)||[link](https://leetcode.com/problems/longest-palindromic-substring/)|medium|`c++`|
+|Partitioning Into Minimum Number Of Deci-Binary Numbers|[Description](Partitioning_Into_Minimum_Number_Of_DeciBinary_Numbers.txt)|[Source](LeetCode/Partitioning_Into_Minimum_Number_Of_DeciBinary_Numbers.cpp)|O(n)|[link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|medium|`c++`|
 
 ## Code Fight
 _Sadly the my submission no longer show on my profile_
