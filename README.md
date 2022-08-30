@@ -193,7 +193,7 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |Remove Duplicates from Sorted Array|[Description](LeetCode/Remove_Duplicates_from_Sorted_Array.txt)|[Source](LeetCode/Remove_Duplicates_from_Sorted_Array.cpp)||[link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|easy|`c++`|
 |Integer to Roman|[Description](LeetCode/Integer_to_Roman.txt)|[Source](LeetCode/Integer_to_Roman.cpp)||[link](https://leetcode.com/problems/integer-to-roman/)|medium|`c++`|
 |Roman to Integer|[Description](LeetCode/Roman_to_Integer.txt)|[Source](LeetCode/Roman_to_Integer.cpp)||[link](https://leetcode.com/problems/roman-to-integer/)|easy|`c++`|
-|Regular Expression Matching|[Description](LeetCode/Regular_Expression_Matching.txt)|[Source](LeetCode/Regular_Expression_Matching.cpp)||[link](https://leetcode.com/problems/regular-expression-matching/)|medium|`c++`|
+|Regular Expression Matching|[Description](LeetCode/Regular_Expression_Matching.txt)|[Source](LeetCode/Regular_Expression_Matching.cpp)||[link](https://leetcode.com/problems/regular-expression-matching/)|hard|`c++`|
 |Container With Most Water|[Description](LeetCode/Container_With_Most_Water.txt)|[Source](LeetCode/Container_With_Most_Water.cpp)||[link](https://leetcode.com/problems/container-with-most-water/)|medium|`c++`|
 |Merge Two Sorted Lists|[Description](LeetCode/Merge_Two_Sorted_Lists.txt)|[Source](LeetCode/Merge_Two_Sorted_Lists.cpp)||[link](https://leetcode.com/problems/merge-two-sorted-lists/)|easy|`c++`|
 |Valid Parentheses|[Description](LeetCode/Valid_Parentheses.txt)|[Source](LeetCode/Valid_Parentheses.cpp)||[link](https://leetcode.com/problems/valid-parentheses/)|easy|`c++`|
