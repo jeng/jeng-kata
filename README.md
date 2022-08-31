@@ -207,7 +207,9 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |Zigzag Conversion|[Description](LeetCode/Zigzag_Conversion.txt)|[Source](LeetCode/Zigzag_Conversion.cpp)||[link](https://leetcode.com/problems/zigzag-conversion/)|medium|`c++`|
 |Longest Palindromic Substring|[Description](LeetCode/Longest_Palindromic_Substring.txt)|[Source](LeetCode/Longest_Palindromic_Substring.cpp)||[link](https://leetcode.com/problems/longest-palindromic-substring/)|medium|`c++`|
 |Partitioning Into Minimum Number Of Deci-Binary Numbers|[Description](LeetCode/Partitioning_Into_Minimum_Number_Of_DeciBinary_Numbers.txt)|[Source](LeetCode/Partitioning_Into_Minimum_Number_Of_DeciBinary_Numbers.cpp)|O(n)|[link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|medium|`c++`|
-|Subrectangle_Queries|[Description](LeetCode/Subrectangle_Queries.txt)|[Source](LeetCode/Subrectangle_Queries.cpp)|O(row + col)|[link](https://leetcode.com/problems/subrectangle-queries/)|medium|`c++`|
+|Subrectangle Queries|[Description](LeetCode/Subrectangle_Queries.txt)|[Source](LeetCode/Subrectangle_Queries.cpp)|O(row + col)|[link](https://leetcode.com/problems/subrectangle-queries/)|medium|`c++`|
+|Merge Nodes in Between Zeros|[Description](LeetCode/Merge_Nodes_in_Between_Zeros.txt)|[Source](LeetCode/Merge_Nodes_in_Between_Zeros.cpp)|O(n)|[link](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|medium|`c++`|
+|Unique Paths III|[Description](LeetCode/Unique_Paths_III.txt)|[Source](LeetCode/Unique_Paths_III.cpp)||[link](https://leetcode.com/problems/unique-paths-iii/)|hard|`c++`|
 
 ## Code Fight
 _Sadly the my submission no longer show on my profile_
