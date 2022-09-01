@@ -210,6 +210,10 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |Subrectangle Queries|[Description](LeetCode/Subrectangle_Queries.txt)|[Source](LeetCode/Subrectangle_Queries.cpp)|O(row + col)|[link](https://leetcode.com/problems/subrectangle-queries/)|medium|`c++`|
 |Merge Nodes in Between Zeros|[Description](LeetCode/Merge_Nodes_in_Between_Zeros.txt)|[Source](LeetCode/Merge_Nodes_in_Between_Zeros.cpp)|O(n)|[link](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|medium|`c++`|
 |Unique Paths III|[Description](LeetCode/Unique_Paths_III.txt)|[Source](LeetCode/Unique_Paths_III.cpp)||[link](https://leetcode.com/problems/unique-paths-iii/)|hard|`c++`|
+|Minimum Amount of Time to Collect Garbage|[Description](LeetCode/Minimum_Amount_of_Time_to_Collect_Garbage.txt)|[Source](LeetCode/Minimum_Amount_of_Time_to_Collect_Garbage.cpp)||[link](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)|medium|`c++`|
+|Max Increase to Keep City Skyline|[Description](LeetCode/Max_Increase_to_Keep_City_Skyline.txt)|[Source](LeetCode/Max_Increase_to_Keep_City_Skyline.cpp)||[link](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|medium|`c++`|
+|Minimum Number of Operations to Move All Balls to Each Box|[Description](LeetCode/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.txt)|[Source](LeetCode/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cpp)||[link](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|medium|`c++`|
+|Recover a Tree From Preorder Traversal|[Description](LeetCode/Recover_a_Tree_From_Preorder_Traversal.txt)|[Source](LeetCode/Recover_a_Tree_From_Preorder_Traversal.cpp)||[link](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|hard|`c++`|
 
 ## Code Fight
 _Sadly the my submission no longer show on my profile_
