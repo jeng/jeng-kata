@@ -214,7 +214,7 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |Max Increase to Keep City Skyline|[Description](LeetCode/Max_Increase_to_Keep_City_Skyline.txt)|[Source](LeetCode/Max_Increase_to_Keep_City_Skyline.cpp)||[link](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|medium|`c++`|
 |Minimum Number of Operations to Move All Balls to Each Box|[Description](LeetCode/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.txt)|[Source](LeetCode/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cpp)||[link](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|medium|`c++`|
 |Recover a Tree From Preorder Traversal|[Description](LeetCode/Recover_a_Tree_From_Preorder_Traversal.txt)|[Source](LeetCode/Recover_a_Tree_From_Preorder_Traversal.cpp)||[link](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|hard|`c++`|
-|Where Will the Ball Fall|[Description](LeetCode/Where_Will_the_Ball_Fall.txt)|[Source](LeetCode/Where_Will_the_Ball_Fall.cpp)||[link](https://leetcode.com/problems/where-will-the-ball-fall/)|medium|`c++` `DP`|
+|Where Will the Ball Fall|[Description](LeetCode/Where_Will_the_Ball_Fall.txt)|[Source](LeetCode/Where_Will_the_Ball_Fall.cpp)|O(|rows| * |columns|)|[link](https://leetcode.com/problems/where-will-the-ball-fall/)|medium|`c++` `DP`|
 
 ## Code Fight
 _Sadly the my submission no longer show on my profile_
