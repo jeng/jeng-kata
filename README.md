@@ -207,7 +207,7 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |Zigzag Conversion|[Description](LeetCode/Zigzag_Conversion.txt)|[Source](LeetCode/Zigzag_Conversion.cpp)||[link](https://leetcode.com/problems/zigzag-conversion/)|medium|`c++`|
 |Longest Palindromic Substring|[Description](LeetCode/Longest_Palindromic_Substring.txt)|[Source](LeetCode/Longest_Palindromic_Substring.cpp)||[link](https://leetcode.com/problems/longest-palindromic-substring/)|medium|`c++`|
 |Partitioning Into Minimum Number Of Deci-Binary Numbers|[Description](LeetCode/Partitioning_Into_Minimum_Number_Of_DeciBinary_Numbers.txt)|[Source](LeetCode/Partitioning_Into_Minimum_Number_Of_DeciBinary_Numbers.cpp)|O(n)|[link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|medium|`c++`|
-|Subrectangle Queries|[Description](LeetCode/Subrectangle_Queries.txt)|[Source](LeetCode/Subrectangle_Queries.cpp)|O(row + col)|[link](https://leetcode.com/problems/subrectangle-queries/)|medium|`c++`|
+|Subrectangle Queries|[Description](LeetCode/Subrectangle_Queries.txt)|[Source](LeetCode/Subrectangle_Queries.cpp)|O(row * col)|[link](https://leetcode.com/problems/subrectangle-queries/)|medium|`c++`|
 |Merge Nodes in Between Zeros|[Description](LeetCode/Merge_Nodes_in_Between_Zeros.txt)|[Source](LeetCode/Merge_Nodes_in_Between_Zeros.cpp)|O(n)|[link](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|medium|`c++`|
 |Unique Paths III|[Description](LeetCode/Unique_Paths_III.txt)|[Source](LeetCode/Unique_Paths_III.cpp)||[link](https://leetcode.com/problems/unique-paths-iii/)|hard|`c++`|
 |Minimum Amount of Time to Collect Garbage|[Description](LeetCode/Minimum_Amount_of_Time_to_Collect_Garbage.txt)|[Source](LeetCode/Minimum_Amount_of_Time_to_Collect_Garbage.cpp)||[link](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)|medium|`c++`|
@@ -215,6 +215,12 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |Minimum Number of Operations to Move All Balls to Each Box|[Description](LeetCode/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.txt)|[Source](LeetCode/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cpp)||[link](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|medium|`c++`|
 |Recover a Tree From Preorder Traversal|[Description](LeetCode/Recover_a_Tree_From_Preorder_Traversal.txt)|[Source](LeetCode/Recover_a_Tree_From_Preorder_Traversal.cpp)||[link](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|hard|`c++`|
 |Where Will the Ball Fall|[Description](LeetCode/Where_Will_the_Ball_Fall.txt)|[Source](LeetCode/Where_Will_the_Ball_Fall.cpp)|O(rows * columns)|[link](https://leetcode.com/problems/where-will-the-ball-fall/)|medium|`c++` `DP`|
+|Strictly Palindromic Number|[Description](LeetCode/Strictly_Palindromic_Number.txt)|[Source](LeetCode/Strictly_Palindromic_Number.cpp)||[link](https://leetcode.com/problems/strictly-palindromic-number/)|medium|`c++` |
+|Maximum Binary Tree|[Description](LeetCode/Maximum_Binary_Tree.txt)|[Source](LeetCode/Maximum_Binary_Tree.cpp)||[link](https://leetcode.com/problems/maximum-binary-tree)|medium|`c++` `recursion`|
+|Partition Array According To Given Pivot|[Description](LeetCode/Partition_Array_According_To_Given_Pivot.txt)|[Source](LeetCode/Partition_Array_According_To_Given_Pivot.cpp)||[link](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|medium|`c++`|
+|Reducing Dishes|[Description](LeetCode/Reducing_Dishes.txt)|[Source](LeetCode/Reducing_Dishes.cpp)|O(n^2)|[link](https://leetcode.com/problems/reducing-dishes/)|hard|`c++`|
+
+
 
 ## Code Fight
 _Sadly the my submission no longer show on my profile_
