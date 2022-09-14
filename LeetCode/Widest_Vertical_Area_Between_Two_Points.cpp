@@ -10,7 +10,6 @@ public:
         int prevX = xs[0];
         for(int i = 0; i < xs.size(); i++){
             int dx = xs[i] - prevX;
-            //cout << "i" << i << " dx " << dx << " xs " << xs[i] << " prev " << prevX << endl;
             maxDx = max(maxDx, dx);
             prevX = xs[i];
         }
