@@ -219,8 +219,10 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |Maximum Binary Tree|[Description](LeetCode/Maximum_Binary_Tree.txt)|[Source](LeetCode/Maximum_Binary_Tree.cpp)||[link](https://leetcode.com/problems/maximum-binary-tree)|medium|`c++` `recursion`|
 |Partition Array According To Given Pivot|[Description](LeetCode/Partition_Array_According_To_Given_Pivot.txt)|[Source](LeetCode/Partition_Array_According_To_Given_Pivot.cpp)||[link](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|medium|`c++`|
 |Reducing Dishes|[Description](LeetCode/Reducing_Dishes.txt)|[Source](LeetCode/Reducing_Dishes.cpp)|O(n^2)|[link](https://leetcode.com/problems/reducing-dishes/)|hard|`c++`|
-
-
+|Widest Vertical Area Between Two Points Containing No Point|[Description](LeetCode/Widest_Vertical_Area_Between_Two_Points.txt)|[Source](LeetCode/Widest_Vertical_Area_Between_Two_Points.cpp)||[link](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|medium|`c++`|
+|Sort the Matrix Diagonally|[Description](LeetCode/Sort_The_Matrix_Diagonally.txt)|[Source](LeetCode/Sort_The_Matrix_Diagonally.cpp)||[link](https://leetcode.com/problems/sort-the-matrix-diagonally/)|medium|`c++`|
+|Execution of All Suffix Instructions Staying in a Grid|[Description](LeetCode/Execution_Of_All_Suffix_Instructions_Staying_In_A_Grid.txt)|[Source](LeetCode/Execution_Of_All_Suffix_Instructions_Staying_In_A_Grid.cpp)||[link](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|medium|`c++`|
+|Queries on a Permutation With Key|[Description](LeetCode/Queries_On_A_Permutation_With_Key.txt)|[Source](LeetCode/Queries_On_A_Permutation_With_Key.cpp)||[link](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|medium|`c++`|
 
 ## Code Fight
 _Sadly the my submission no longer show on my profile_
