@@ -223,6 +223,10 @@ Over time I plan to go back through and add the runtime analysis of the solution
 |Sort the Matrix Diagonally|[Description](LeetCode/Sort_The_Matrix_Diagonally.txt)|[Source](LeetCode/Sort_The_Matrix_Diagonally.cpp)||[link](https://leetcode.com/problems/sort-the-matrix-diagonally/)|medium|`c++`|
 |Execution of All Suffix Instructions Staying in a Grid|[Description](LeetCode/Execution_Of_All_Suffix_Instructions_Staying_In_A_Grid.txt)|[Source](LeetCode/Execution_Of_All_Suffix_Instructions_Staying_In_A_Grid.cpp)||[link](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|medium|`c++`|
 |Queries on a Permutation With Key|[Description](LeetCode/Queries_On_A_Permutation_With_Key.txt)|[Source](LeetCode/Queries_On_A_Permutation_With_Key.cpp)||[link](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|medium|`c++`|
+|Number of Laser Beams in a Bank|desc|[Source](LeetCode/Number_of_Laser_Beams_in_a_Bank.txt)||[link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|level|`c++`|
+|Maximum Twin Sum of a Linked List|desc|[Source](LeetCode/Maximum_Twin_Sum_of_a_Linked_List.txt)||[link](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|level|`c++`|
+|Rearrange Array Elements by Sign|desc|[Source](LeetCode/Rearrange_Array_Elements_by_Sign.txt)||[link](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|level|`c++`|
+|Minimum Operations to Make Array Equal|desc|[Source](LeetCode/Minimum_Operations_to_Make_Array_Equal.txt)||[link](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|level|`c++`|
 
 ## Code Fight
 _Sadly the my submission no longer show on my profile_
