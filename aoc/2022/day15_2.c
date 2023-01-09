@@ -138,7 +138,7 @@ int main() {
                     if (left <= x && x <= right){
                         x = (sensors[i].position.x + offset) + 1;
                     }
-                    if (x < right){
+                    if (x < left){
                         printf("found it %d %d\n", x, y);
                         exit(0);
                     }
